@@ -1430,6 +1430,8 @@
   "Imported {count} MCP servers from the project.": "Imported {count} MCP servers from the project.",
   "Servers added to the project's settings file outside OpenIDEA stay off until you turn them on here.": "Servers added to the project's settings file outside OpenIDEA stay off until you turn them on here.",
   "Show branch and incoming/outgoing commits in the Project view": "Show branch and incoming/outgoing commits in the Project view",
+  "Execute branch operations on all repositories": "Execute branch operations on all repositories",
+  "Only applies to projects with several Git repositories.": "Only applies to projects with several Git repositories.",
   "Up to date with {upstream}": "Up to date with {upstream}",
   "Incoming commits": "Incoming commits",
   "Outgoing commits": "Outgoing commits",
@@ -2716,5 +2718,12 @@
   "Remove All Watches": "Remove All Watches",
   "GitHub account": "GitHub account",
   "Leave empty to use the active GitHub CLI account. OpenIDEA resolves the token at launch and never stores it.": "Leave empty to use the active GitHub CLI account. OpenIDEA resolves the token at launch and never stores it.",
-  "github-username": "github-username"
+  "github-username": "github-username",
+  "Branches have diverged": "Branches have diverged",
+  "Check out the same branch in all repositories to operate on them together.": "Check out the same branch in all repositories to operate on them together.",
+  "Rename branch {name} ({root})": "Rename branch {name} ({root})",
+  "rename it back to {name}": "rename it back to {name}",
+  "restore {name} and check out the previous branch again": "restore {name} and check out the previous branch again",
+  "Unset upstream of {to} ({root})": "Unset upstream of {to} ({root})",
+  "Group by Repository": "Group by Repository"
 }
