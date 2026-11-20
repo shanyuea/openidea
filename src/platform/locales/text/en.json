@@ -2720,5 +2720,7 @@
   "Leave empty to use the active GitHub CLI account. OpenIDEA resolves the token at launch and never stores it.": "Leave empty to use the active GitHub CLI account. OpenIDEA resolves the token at launch and never stores it.",
   "github-username": "github-username",
   "Branches have diverged": "Branches have diverged",
-  "Check out the same branch in all repositories to operate on them together.": "Check out the same branch in all repositories to operate on them together."
+  "Check out the same branch in all repositories to operate on them together.": "Check out the same branch in all repositories to operate on them together.",
+  "Rename branch {name} ({root})": "Rename branch {name} ({root})",
+  "rename it back to {name}": "rename it back to {name}"
 }
